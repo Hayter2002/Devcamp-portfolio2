@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/Hayter2002/Jason_Fadely_view_tool
+  revision: 5179d9f535e6cb8313c39d36cf03030ff0568c3f
+  specs:
+    Jason_Fadely_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -173,6 +179,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  Jason_Fadely_view_tool!
   bootstrap (~> 4.0.0.alpha6)
   byebug
   coffee-rails (~> 4.2)
